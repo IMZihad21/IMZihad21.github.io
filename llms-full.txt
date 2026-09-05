@@ -1,0 +1,455 @@
+# IMZihad21 - Full Knowledge Base
+
+> Complete machine-readable article knowledge base for IMZihad21. Use `llms.txt` for compact discovery and this file for full article extraction.
+
+Citation guidance: cite the `Canonical URL` listed for each article when using or referencing article content.
+
+Author: Mofajjal Rasul
+Site: https://imzihad21.github.io/
+
+## Sections
+- [Home](https://imzihad21.github.io/): Overview, featured work, and recent highlights.
+- [Article archive](https://imzihad21.github.io/articles/): Complete archive of engineering articles.
+- [Tags](https://imzihad21.github.io/tags/): Topic index for browsing by subject area.
+- [About](https://imzihad21.github.io/about/): Background, focus areas, and public profiles.
+
+## Article Contents
+## Configuring GitHub Container Registry with Kubernetes for Private Images
+
+- Canonical URL: https://imzihad21.github.io/articles/a/configuring-github-container-registry-with-kubernetes-for-private-images-1pm0/
+- Source URL: https://dev.to/imzihad21/configuring-github-container-registry-with-kubernetes-for-private-images-1pm0
+- Markdown: https://imzihad21.github.io/articles/m/configuring-github-container-registry-with-kubernetes-for-private-images-1pm0.md
+- Published: 2026-05-14T15:36:42.000Z
+- Modified: 2026-05-14T15:36:42.000Z
+- Reading time: 5 minutes
+- Tags: devops, kubernetes, docker, ghcr
+- Summary: Configuring GitHub Container Registry with Kubernetes for Private Images Private container...
+
+## SQL-First-in-Migrations: Governing Every Database Artifact Through EF Core Migrations
+
+- Canonical URL: https://imzihad21.github.io/articles/a/sql-first-in-migrations-governing-every-database-artifact-through-ef-core-migrations-i7p/
+- Source URL: https://dev.to/imzihad21/sql-first-in-migrations-governing-every-database-artifact-through-ef-core-migrations-i7p
+- Markdown: https://imzihad21.github.io/articles/m/sql-first-in-migrations-governing-every-database-artifact-through-ef-core-migrations-i7p.md
+- Published: 2026-05-12T11:12:11.000Z
+- Modified: 2026-05-12T11:12:11.000Z
+- Reading time: 6 minutes
+- Tags: dotnet, efcore, codefirst, sql
+- Summary: SQL First in Migrations: Governing Every Database Artifact Through EF Core Migrations ...
+
+## Atomic Redis Value Replacement Without Downtime: The Temporary Key Pattern
+
+- Canonical URL: https://imzihad21.github.io/articles/a/atomic-redis-value-replacement-without-downtime-the-temporary-key-pattern-nf2/
+- Source URL: https://dev.to/imzihad21/atomic-redis-value-replacement-without-downtime-the-temporary-key-pattern-nf2
+- Markdown: https://imzihad21.github.io/articles/m/atomic-redis-value-replacement-without-downtime-the-temporary-key-pattern-nf2.md
+- Published: 2026-04-29T17:41:50.000Z
+- Modified: 2026-04-29T17:41:50.000Z
+- Reading time: 6 minutes
+- Tags: redis, dotnet, distributedsystems, systemdesign
+- Summary: Atomic Redis Value Replacement Without Downtime: The Temporary Key Pattern When Redis...
+
+## Implementing Soft Delete with Filtered Indexes in Entity Framework Core
+
+- Canonical URL: https://imzihad21.github.io/articles/a/implementing-soft-delete-with-filtered-indexes-in-entity-framework-core-49ip/
+- Source URL: https://dev.to/imzihad21/implementing-soft-delete-with-filtered-indexes-in-entity-framework-core-49ip
+- Markdown: https://imzihad21.github.io/articles/m/implementing-soft-delete-with-filtered-indexes-in-entity-framework-core-49ip.md
+- Published: 2026-04-22T16:32:18.000Z
+- Modified: 2026-04-22T16:32:18.000Z
+- Reading time: 4 minutes
+- Tags: dotnet, database, softdelete, efcore
+- Summary: Soft Delete with Global Query Filters and Filtered Indexes in Entity Framework Core Soft...
+
+## Building Dynamic Filters in Clean Architecture (CQRS) using ExpressionBuilder
+
+- Canonical URL: https://imzihad21.github.io/articles/a/building-dynamic-filters-in-clean-architecture-cqrs-using-expressionbuilder-142/
+- Source URL: https://dev.to/imzihad21/building-dynamic-filters-in-clean-architecture-cqrs-using-expressionbuilder-142
+- Markdown: https://imzihad21.github.io/articles/m/building-dynamic-filters-in-clean-architecture-cqrs-using-expressionbuilder-142.md
+- Published: 2026-03-25T16:01:12.000Z
+- Modified: 2026-03-25T16:01:12.000Z
+- Reading time: 4 minutes
+- Tags: dotnet, cleanarchitecture, genericrepository, cqrs
+- Summary: Building Dynamic Filters in Clean Architecture with ExpressionBuilder Dynamic filtering...
+
+## Cursor vs Offset Pagination in EF Core: What Actually Works in Production
+
+- Canonical URL: https://imzihad21.github.io/articles/a/cursor-vs-offset-pagination-in-ef-core-what-actually-works-in-production-448m/
+- Source URL: https://dev.to/imzihad21/cursor-vs-offset-pagination-in-ef-core-what-actually-works-in-production-448m
+- Markdown: https://imzihad21.github.io/articles/m/cursor-vs-offset-pagination-in-ef-core-what-actually-works-in-production-448m.md
+- Published: 2026-03-19T10:18:33.000Z
+- Modified: 2026-03-19T10:18:33.000Z
+- Reading time: 2 minutes
+- Tags: dotnet, efcore, pagination, performance
+- Summary: Cursor vs Offset Pagination in EF Core: What Actually Works in Production Pagination is...
+
+## Understanding EF.Functions.Like and ILike in Entity Framework Core
+
+- Canonical URL: https://imzihad21.github.io/articles/a/understanding-effunctionslike-and-ilike-in-entity-framework-core-19k2/
+- Source URL: https://dev.to/imzihad21/understanding-effunctionslike-and-ilike-in-entity-framework-core-19k2
+- Markdown: https://imzihad21.github.io/articles/m/understanding-effunctionslike-and-ilike-in-entity-framework-core-19k2.md
+- Published: 2026-02-28T05:21:15.000Z
+- Modified: 2026-02-28T05:21:15.000Z
+- Reading time: 2 minutes
+- Tags: dotnet, efcore, postgres, productivity
+- Summary: Understanding EF.Functions.Like and ILike in Entity Framework Core Pattern based string...
+
+## BCrypt vs Argon2: Password Hashing in .NET – A Practical Deep Dive
+
+- Canonical URL: https://imzihad21.github.io/articles/a/bcrypt-vs-argon2-password-hashing-in-net-a-practical-deep-dive-54co/
+- Source URL: https://dev.to/imzihad21/bcrypt-vs-argon2-password-hashing-in-net-a-practical-deep-dive-54co
+- Markdown: https://imzihad21.github.io/articles/m/bcrypt-vs-argon2-password-hashing-in-net-a-practical-deep-dive-54co.md
+- Published: 2026-02-28T04:41:09.000Z
+- Modified: 2026-02-28T04:41:09.000Z
+- Reading time: 2 minutes
+- Tags: dotnet, bcrypt, argon2, encryption
+- Summary: BCrypt vs Argon2 Password Hashing in .NET: A Practical Deep Dive Password storage is one...
+
+## Implementing Event-Driven Order Processing with Kafka using KafkaFlow in .NET
+
+- Canonical URL: https://imzihad21.github.io/articles/a/implementing-event-driven-order-processing-with-kafka-using-kafkaflow-in-net-1m5a/
+- Source URL: https://dev.to/imzihad21/implementing-event-driven-order-processing-with-kafka-using-kafkaflow-in-net-1m5a
+- Markdown: https://imzihad21.github.io/articles/m/implementing-event-driven-order-processing-with-kafka-using-kafkaflow-in-net-1m5a.md
+- Published: 2026-01-30T20:34:10.000Z
+- Modified: 2026-01-30T20:34:10.000Z
+- Reading time: 3 minutes
+- Tags: dotnet, kafka, eventdriven, pubsub
+- Summary: Implementing Event Driven Order Processing with Kafka Using KafkaFlow in .NET In real...
+
+## Runtime Environment Variables for React Apps with Nginx and Docker
+
+- Canonical URL: https://imzihad21.github.io/articles/a/runtime-environment-variables-for-react-apps-with-nginx-and-docker-3p62/
+- Source URL: https://dev.to/imzihad21/runtime-environment-variables-for-react-apps-with-nginx-and-docker-3p62
+- Markdown: https://imzihad21.github.io/articles/m/runtime-environment-variables-for-react-apps-with-nginx-and-docker-3p62.md
+- Published: 2025-12-25T12:38:37.000Z
+- Modified: 2025-12-25T12:38:37.000Z
+- Reading time: 2 minutes
+- Tags: docker, react, webdev, devops
+- Summary: Runtime Environment Variables for React Apps with Nginx and Docker React frontend env...
+
+## Named Configuration Binding in .NET Using the Modern Options Pattern
+
+- Canonical URL: https://imzihad21.github.io/articles/a/multi-client-configuration-binding-in-net-using-the-modern-options-pattern-clj/
+- Source URL: https://dev.to/imzihad21/multi-client-configuration-binding-in-net-using-the-modern-options-pattern-clj
+- Markdown: https://imzihad21.github.io/articles/m/multi-client-configuration-binding-in-net-using-the-modern-options-pattern-clj.md
+- Published: 2025-11-29T18:51:53.000Z
+- Modified: 2025-11-29T18:51:53.000Z
+- Reading time: 2 minutes
+- Tags: dotnet, configuration, csharp, aspnetcore
+- Summary: Named Configuration Binding in .NET Using the Modern Options Pattern When tenant/client...
+
+## .NET 9 dropped Swashbuckle — but you can still keep Swagger UI backed by OpenAPI
+
+- Canonical URL: https://imzihad21.github.io/articles/a/net-9-dropped-swashbuckle-but-you-can-still-keep-swagger-ui-backed-by-openapi-50j3/
+- Source URL: https://dev.to/imzihad21/net-9-dropped-swashbuckle-but-you-can-still-keep-swagger-ui-backed-by-openapi-50j3
+- Markdown: https://imzihad21.github.io/articles/m/net-9-dropped-swashbuckle-but-you-can-still-keep-swagger-ui-backed-by-openapi-50j3.md
+- Published: 2025-10-24T03:23:25.000Z
+- Modified: 2025-10-24T03:23:25.000Z
+- Reading time: 3 minutes
+- Tags: dotnet, openapi, swagger, authentication
+- Summary: .NET 9 Dropped Swashbuckle Generator, but You Can Still Keep Swagger UI Backed by...
+
+## JWT with OIDC Authentication in Distributed Systems: Building Trust at Scale
+
+- Canonical URL: https://imzihad21.github.io/articles/a/jwt-with-oidc-authentication-in-distributed-systems-building-trust-at-scale-2nno/
+- Source URL: https://dev.to/imzihad21/jwt-with-oidc-authentication-in-distributed-systems-building-trust-at-scale-2nno
+- Markdown: https://imzihad21.github.io/articles/m/jwt-with-oidc-authentication-in-distributed-systems-building-trust-at-scale-2nno.md
+- Published: 2025-09-17T15:31:13.000Z
+- Modified: 2025-09-17T15:31:13.000Z
+- Reading time: 3 minutes
+- Tags: dotnet, authentication, oidc, jwt
+- Summary: JWT with OIDC Authentication in Distributed Systems: Building Trust at Scale In...
+
+## EF Core 10's ExecuteUpdateAsync: Finally, Delegates That Don't Hate Developers
+
+- Canonical URL: https://imzihad21.github.io/articles/a/ef-core-10s-executeupdateasync-finally-delegates-that-dont-hate-developers-kij/
+- Source URL: https://dev.to/imzihad21/ef-core-10s-executeupdateasync-finally-delegates-that-dont-hate-developers-kij
+- Markdown: https://imzihad21.github.io/articles/m/ef-core-10s-executeupdateasync-finally-delegates-that-dont-hate-developers-kij.md
+- Published: 2025-08-27T05:59:08.000Z
+- Modified: 2025-08-27T05:59:08.000Z
+- Reading time: 2 minutes
+- Tags: dotnet, csharp, efcore, lambda
+- Summary: EF Core 10's ExecuteUpdateAsync Finally Uses Delegates Developers Can Actually Live...
+
+## The Secret to Scalability: Architecting a High-Performance .NET Puppeteer Page Pool
+
+- Canonical URL: https://imzihad21.github.io/articles/a/the-secret-to-scalability-architecting-a-high-performance-net-puppeteer-page-pool-343e/
+- Source URL: https://dev.to/imzihad21/the-secret-to-scalability-architecting-a-high-performance-net-puppeteer-page-pool-343e
+- Markdown: https://imzihad21.github.io/articles/m/the-secret-to-scalability-architecting-a-high-performance-net-puppeteer-page-pool-343e.md
+- Published: 2025-07-31T17:39:47.000Z
+- Modified: 2025-07-31T17:39:47.000Z
+- Reading time: 3 minutes
+- Tags: dotnet, puppeteer, pdfgeneration, chromium
+- Summary: The Secret to Scalability: Architecting a High Performance .NET Puppeteer Page...
+
+## HTTP Server Management in Go: Graceful Shutdowns and Error Handling
+
+- Canonical URL: https://imzihad21.github.io/articles/a/http-server-management-in-go-graceful-shutdowns-and-error-handling-2ep0/
+- Source URL: https://dev.to/imzihad21/http-server-management-in-go-graceful-shutdowns-and-error-handling-2ep0
+- Markdown: https://imzihad21.github.io/articles/m/http-server-management-in-go-graceful-shutdowns-and-error-handling-2ep0.md
+- Published: 2025-06-24T04:13:23.000Z
+- Modified: 2025-06-24T04:13:23.000Z
+- Reading time: 2 minutes
+- Tags: go, webdev, cloudnative, backend
+- Summary: HTTP Server Management in Go: Graceful Shutdowns and Error Handling A production HTTP...
+
+## The Truth About AddAsync: When to Use It in EF Core (and When Not To)
+
+- Canonical URL: https://imzihad21.github.io/articles/a/the-truth-about-addasync-when-to-use-it-in-ef-core-and-when-not-to-3i5e/
+- Source URL: https://dev.to/imzihad21/the-truth-about-addasync-when-to-use-it-in-ef-core-and-when-not-to-3i5e
+- Markdown: https://imzihad21.github.io/articles/m/the-truth-about-addasync-when-to-use-it-in-ef-core-and-when-not-to-3i5e.md
+- Published: 2025-05-28T18:05:08.000Z
+- Modified: 2025-05-28T18:05:08.000Z
+- Reading time: 2 minutes
+- Tags: dotnet, efcore, valuegeneration, asyncawait
+- Summary: The Truth About AddAsync in EF Core: When to Use It and When Not To AddAsync() often...
+
+## Node.js Memory Apocalypse: Why Your App Dies on Big Files (And How to Stop It Forever)
+
+- Canonical URL: https://imzihad21.github.io/articles/a/nodejs-memory-apocalypse-why-your-app-dies-on-big-files-and-how-to-stop-it-forever-4a4i/
+- Source URL: https://dev.to/imzihad21/nodejs-memory-apocalypse-why-your-app-dies-on-big-files-and-how-to-stop-it-forever-4a4i
+- Markdown: https://imzihad21.github.io/articles/m/nodejs-memory-apocalypse-why-your-app-dies-on-big-files-and-how-to-stop-it-forever-4a4i.md
+- Published: 2025-04-30T17:20:19.000Z
+- Modified: 2025-04-30T17:20:19.000Z
+- Reading time: 2 minutes
+- Tags: node, webdev, performance, fs
+- Summary: Node.js Memory Apocalypse: Why Your App Dies on Big Files and How to Stop It Forever Your...
+
+## Understanding C# ref and out Keywords: A Friendly Guide
+
+- Canonical URL: https://imzihad21.github.io/articles/a/understanding-c-ref-and-out-keywords-a-friendly-guide-392a/
+- Source URL: https://dev.to/imzihad21/understanding-c-ref-and-out-keywords-a-friendly-guide-392a
+- Markdown: https://imzihad21.github.io/articles/m/understanding-c-ref-and-out-keywords-a-friendly-guide-392a.md
+- Published: 2025-04-20T04:33:33.000Z
+- Modified: 2025-04-20T04:33:33.000Z
+- Reading time: 2 minutes
+- Tags: dotnet, csharp, programming, tutorial
+- Summary: Understanding C ref and out Keywords: A Friendly Guide In C#, ref and out pass arguments...
+
+## Deploying a React App with Docker using Nginx
+
+- Canonical URL: https://imzihad21.github.io/articles/a/deploying-a-react-app-with-docker-using-nginx-4in4/
+- Source URL: https://dev.to/imzihad21/deploying-a-react-app-with-docker-using-nginx-4in4
+- Markdown: https://imzihad21.github.io/articles/m/deploying-a-react-app-with-docker-using-nginx-4in4.md
+- Published: 2025-03-09T08:26:18.000Z
+- Modified: 2025-03-09T08:26:18.000Z
+- Reading time: 2 minutes
+- Tags: docker, react, nginx, devops
+- Summary: Deploying a React App with Docker Using Nginx For production React deployments, the goal...
+
+## Send FCM Event to All Opened Client Windows Instead of Focused (FCM Default)
+
+- Canonical URL: https://imzihad21.github.io/articles/a/send-fcm-event-to-all-opened-client-windows-instead-of-focused-fcm-default-2hdd/
+- Source URL: https://dev.to/imzihad21/send-fcm-event-to-all-opened-client-windows-instead-of-focused-fcm-default-2hdd
+- Markdown: https://imzihad21.github.io/articles/m/send-fcm-event-to-all-opened-client-windows-instead-of-focused-fcm-default-2hdd.md
+- Published: 2025-03-05T08:13:51.000Z
+- Modified: 2025-03-05T08:13:51.000Z
+- Reading time: 2 minutes
+- Tags: react, firebase, cloudmessaging, webdev
+- Summary: Send FCM Event to All Opened Client Windows Instead of Focused FCM Default In many web...
+
+## Implementing TOTP-Based Two-Factor Authentication in .NET Web API
+
+- Canonical URL: https://imzihad21.github.io/articles/a/implementing-totp-two-factor-authentication-in-net-web-api-d7n/
+- Source URL: https://dev.to/imzihad21/implementing-totp-two-factor-authentication-in-net-web-api-d7n
+- Markdown: https://imzihad21.github.io/articles/m/implementing-totp-two-factor-authentication-in-net-web-api-d7n.md
+- Published: 2025-02-16T07:46:40.000Z
+- Modified: 2025-02-16T07:46:40.000Z
+- Reading time: 3 minutes
+- Tags: dotnet, security, twofactorauth, qrcode
+- Summary: Implementing TOTP Based Two Factor Authentication in .NET Web API Password authentication...
+
+## Managing Production Configurations in ASP.NET Core WebAPI Using Environment Variables
+
+- Canonical URL: https://imzihad21.github.io/articles/a/managing-production-configurations-in-aspnet-core-webapi-using-environment-variables-3nmf/
+- Source URL: https://dev.to/imzihad21/managing-production-configurations-in-aspnet-core-webapi-using-environment-variables-3nmf
+- Markdown: https://imzihad21.github.io/articles/m/managing-production-configurations-in-aspnet-core-webapi-using-environment-variables-3nmf.md
+- Published: 2025-01-25T03:30:01.000Z
+- Modified: 2025-01-25T03:30:01.000Z
+- Reading time: 2 minutes
+- Tags: dotnet, docker, devops, env
+- Summary: Managing Production Configurations in ASP.NET Core Web API Using Environment...
+
+## Simplify Email Testing with a Local Papercut SMTP Server Using Docker
+
+- Canonical URL: https://imzihad21.github.io/articles/a/simplify-email-testing-with-a-local-papercut-smtp-server-using-docker-1o6b/
+- Source URL: https://dev.to/imzihad21/simplify-email-testing-with-a-local-papercut-smtp-server-using-docker-1o6b
+- Markdown: https://imzihad21.github.io/articles/m/simplify-email-testing-with-a-local-papercut-smtp-server-using-docker-1o6b.md
+- Published: 2024-12-30T15:08:05.000Z
+- Modified: 2024-12-30T15:08:05.000Z
+- Reading time: 2 minutes
+- Tags: docker, email, testing, devtools
+- Summary: Simplify Email Testing with a Local Papercut SMTP Server Using Docker Testing email...
+
+## Setting Up a Home Media Server with Docker: A Beginner's Guide
+
+- Canonical URL: https://imzihad21.github.io/articles/a/setting-up-a-home-media-server-with-docker-a-beginners-guide-296l/
+- Source URL: https://dev.to/imzihad21/setting-up-a-home-media-server-with-docker-a-beginners-guide-296l
+- Markdown: https://imzihad21.github.io/articles/m/setting-up-a-home-media-server-with-docker-a-beginners-guide-296l.md
+- Published: 2024-12-30T14:40:04.000Z
+- Modified: 2024-12-30T14:40:04.000Z
+- Reading time: 2 minutes
+- Tags: docker, linux, devops, mediaserver
+- Summary: Setting Up a Home Media Server with Docker: A Beginner's Guide A home media server lets...
+
+## Master React API Management with TanStack React Query: Best Practices & Examples
+
+- Canonical URL: https://imzihad21.github.io/articles/a/master-react-api-management-with-tanstack-react-query-best-practices-examples-1139/
+- Source URL: https://dev.to/imzihad21/master-react-api-management-with-tanstack-react-query-best-practices-examples-1139
+- Markdown: https://imzihad21.github.io/articles/m/master-react-api-management-with-tanstack-react-query-best-practices-examples-1139.md
+- Published: 2024-11-27T05:43:02.000Z
+- Modified: 2024-11-27T05:43:02.000Z
+- Reading time: 3 minutes
+- Tags: react, reactquery, axios, api
+- Summary: Master React API Management with TanStack Query: Best Practices and Examples Managing...
+
+## Building a Linux Based Minimal and Efficient .NET 8 Application Docker Image
+
+- Canonical URL: https://imzihad21.github.io/articles/a/building-a-linux-based-minimal-and-efficient-net-8-application-docker-image-50jp/
+- Source URL: https://dev.to/imzihad21/building-a-linux-based-minimal-and-efficient-net-8-application-docker-image-50jp
+- Markdown: https://imzihad21.github.io/articles/m/building-a-linux-based-minimal-and-efficient-net-8-application-docker-image-50jp.md
+- Published: 2024-11-24T04:29:31.000Z
+- Modified: 2024-11-24T04:29:31.000Z
+- Reading time: 2 minutes
+- Tags: dotnet, docker, linux, devops
+- Summary: Building a Linux Based Minimal and Efficient .NET 8 Application Docker Image A good Docker...
+
+## Setting Up a VPS Server with Docker, Nginx Proxy Manager, and Portainer
+
+- Canonical URL: https://imzihad21.github.io/articles/a/setting-up-a-vps-server-with-docker-nginx-proxy-manager-and-portainer-3hfk/
+- Source URL: https://dev.to/imzihad21/setting-up-a-vps-server-with-docker-nginx-proxy-manager-and-portainer-3hfk
+- Markdown: https://imzihad21.github.io/articles/m/setting-up-a-vps-server-with-docker-nginx-proxy-manager-and-portainer-3hfk.md
+- Published: 2024-11-17T15:42:43.000Z
+- Modified: 2024-11-17T15:42:43.000Z
+- Reading time: 3 minutes
+- Tags: docker, nginx, portainer, linux
+- Summary: Setting Up a VPS Server with Docker, Nginx Proxy Manager, and Portainer Hosting apps on a...
+
+## Integrating Stripe Payment Intent in NestJS with Webhook Handling
+
+- Canonical URL: https://imzihad21.github.io/articles/a/integrating-stripe-payment-intent-in-nestjs-with-webhook-handling-1n65/
+- Source URL: https://dev.to/imzihad21/integrating-stripe-payment-intent-in-nestjs-with-webhook-handling-1n65
+- Markdown: https://imzihad21.github.io/articles/m/integrating-stripe-payment-intent-in-nestjs-with-webhook-handling-1n65.md
+- Published: 2024-11-11T20:54:41.000Z
+- Modified: 2024-11-11T20:54:41.000Z
+- Reading time: 3 minutes
+- Tags: nestjs, stripe, payment, webhook
+- Summary: Integrating Stripe Payment Intent in NestJS with Webhook Handling Stripe integration in...
+
+## Comprehensive Encryption and Security Service in NestJS: Argon2 Hashing, Token Generation, and AES Encryption
+
+- Canonical URL: https://imzihad21.github.io/articles/a/comprehensive-encryption-and-security-service-in-nestjs-argon2-hashing-token-generation-and-aes-encryption-595o/
+- Source URL: https://dev.to/imzihad21/comprehensive-encryption-and-security-service-in-nestjs-argon2-hashing-token-generation-and-aes-encryption-595o
+- Markdown: https://imzihad21.github.io/articles/m/comprehensive-encryption-and-security-service-in-nestjs-argon2-hashing-token-generation-and-aes-encryption-595o.md
+- Published: 2024-11-11T20:25:00.000Z
+- Modified: 2024-11-11T20:25:00.000Z
+- Reading time: 3 minutes
+- Tags: nestjs, argon2, aes, encryption
+- Summary: Comprehensive Encryption and Security Service in NestJS: Argon2, Token Generation, and AES...
+
+## Custom Role-Based Access Control in NestJS Using Custom Guards
+
+- Canonical URL: https://imzihad21.github.io/articles/a/custom-role-based-access-control-in-nestjs-using-custom-guards-jol/
+- Source URL: https://dev.to/imzihad21/custom-role-based-access-control-in-nestjs-using-custom-guards-jol
+- Markdown: https://imzihad21.github.io/articles/m/custom-role-based-access-control-in-nestjs-using-custom-guards-jol.md
+- Published: 2024-11-11T20:04:34.000Z
+- Modified: 2024-11-11T20:04:34.000Z
+- Reading time: 3 minutes
+- Tags: nestjs, rbac, authorization, security
+- Summary: Custom Role Based Access Control in NestJS Using Custom Guards Role checks scattered...
+
+## Implementing HTTP Request and Response Encryption in ASP.NET Core with Custom Attributes
+
+- Canonical URL: https://imzihad21.github.io/articles/a/implementing-http-request-and-response-encryption-in-aspnet-core-with-custom-attributes-422b/
+- Source URL: https://dev.to/imzihad21/implementing-http-request-and-response-encryption-in-aspnet-core-with-custom-attributes-422b
+- Markdown: https://imzihad21.github.io/articles/m/implementing-http-request-and-response-encryption-in-aspnet-core-with-custom-attributes-422b.md
+- Published: 2024-11-07T06:15:22.000Z
+- Modified: 2024-11-07T06:15:22.000Z
+- Reading time: 4 minutes
+- Tags: dotnet, cryptography, security, webdev
+- Summary: Implementing HTTP Request and Response Encryption in ASP.NET Core with Custom...
+
+## A Generic Repository Pattern for NestJS with Mongoose for MongoDB
+
+- Canonical URL: https://imzihad21.github.io/articles/a/a-generic-repository-pattern-for-nestjs-with-mongoose-for-mongodb-gp3/
+- Source URL: https://dev.to/imzihad21/a-generic-repository-pattern-for-nestjs-with-mongoose-for-mongodb-gp3
+- Markdown: https://imzihad21.github.io/articles/m/a-generic-repository-pattern-for-nestjs-with-mongoose-for-mongodb-gp3.md
+- Published: 2024-11-03T18:29:54.000Z
+- Modified: 2024-11-03T18:29:54.000Z
+- Reading time: 3 minutes
+- Tags: nestjs, mongodb, generic, repository
+- Summary: A Generic Repository Pattern for NestJS with Mongoose for MongoDB As applications grow,...
+
+## Integrating Cloudinary with NestJS for Image Management
+
+- Canonical URL: https://imzihad21.github.io/articles/a/integrating-cloudinary-with-nestjs-for-image-management-25n5/
+- Source URL: https://dev.to/imzihad21/integrating-cloudinary-with-nestjs-for-image-management-25n5
+- Markdown: https://imzihad21.github.io/articles/m/integrating-cloudinary-with-nestjs-for-image-management-25n5.md
+- Published: 2024-11-03T18:13:21.000Z
+- Modified: 2024-11-03T18:13:21.000Z
+- Reading time: 3 minutes
+- Tags: nestjs, cloudinary, imageupload, backend
+- Summary: Integrating Cloudinary with NestJS for Image Management Image handling in backend systems...
+
+## Seamlessly Integrate Swagger with JWT Authentication in NestJS
+
+- Canonical URL: https://imzihad21.github.io/articles/a/seamlessly-integrate-swagger-with-jwt-authentication-in-nestjs-2aol/
+- Source URL: https://dev.to/imzihad21/seamlessly-integrate-swagger-with-jwt-authentication-in-nestjs-2aol
+- Markdown: https://imzihad21.github.io/articles/m/seamlessly-integrate-swagger-with-jwt-authentication-in-nestjs-2aol.md
+- Published: 2024-11-03T17:43:11.000Z
+- Modified: 2024-11-03T17:43:11.000Z
+- Reading time: 2 minutes
+- Tags: nestjs, jwt, swagger, webdev
+- Summary: Seamlessly Integrate Swagger with JWT Authentication in NestJS Strong API documentation...
+
+## Enhancing Error Logging in NestJS with Sentry
+
+- Canonical URL: https://imzihad21.github.io/articles/a/enhancing-error-logging-in-nestjs-with-a-custom-sentry-logger-4bf/
+- Source URL: https://dev.to/imzihad21/enhancing-error-logging-in-nestjs-with-a-custom-sentry-logger-4bf
+- Markdown: https://imzihad21.github.io/articles/m/enhancing-error-logging-in-nestjs-with-a-custom-sentry-logger-4bf.md
+- Published: 2024-11-03T17:31:51.000Z
+- Modified: 2024-11-03T17:31:51.000Z
+- Reading time: 3 minutes
+- Tags: nestjs, sentry, logger, exception
+- Summary: Enhancing Error Logging in NestJS with Sentry Error logs without context are just...
+
+## Custom Role-Based Authorization with JWT in ASP.NET Core
+
+- Canonical URL: https://imzihad21.github.io/articles/a/custom-role-based-authorization-with-jwt-in-aspnet-core-e7p/
+- Source URL: https://dev.to/imzihad21/custom-role-based-authorization-with-jwt-in-aspnet-core-e7p
+- Markdown: https://imzihad21.github.io/articles/m/custom-role-based-authorization-with-jwt-in-aspnet-core-e7p.md
+- Published: 2024-11-03T16:39:58.000Z
+- Modified: 2024-11-03T16:39:58.000Z
+- Reading time: 3 minutes
+- Tags: dotnet, aspnetcore, jwt, authorization
+- Summary: Custom Role Based Authorization with JWT in ASP.NET Core When an API grows, scattered...
+
+## Managing JWT Access Tokens with Axios and Automatic Token Refresh
+
+- Canonical URL: https://imzihad21.github.io/articles/a/managing-jwt-access-tokens-with-axios-and-automatic-token-refresh-1i5p/
+- Source URL: https://dev.to/imzihad21/managing-jwt-access-tokens-with-axios-and-automatic-token-refresh-1i5p
+- Markdown: https://imzihad21.github.io/articles/m/managing-jwt-access-tokens-with-axios-and-automatic-token-refresh-1i5p.md
+- Published: 2023-10-22T18:05:23.000Z
+- Modified: 2023-10-22T18:05:23.000Z
+- Reading time: 3 minutes
+- Tags: axios, jwt, react, tokenrefresh
+- Summary: Managing JWT Access Tokens with Axios and Automatic Token Refresh Many developers hit this...
+
+## Essential Concepts for JavaScript Developers in Back-End Development
+
+- Canonical URL: https://imzihad21.github.io/articles/a/backend-guides-4i97/
+- Source URL: https://dev.to/imzihad21/backend-guides-4i97
+- Markdown: https://imzihad21.github.io/articles/m/backend-guides-4i97.md
+- Published: 2021-12-23T16:53:07.000Z
+- Modified: 2021-12-23T16:53:07.000Z
+- Reading time: 3 minutes
+- Tags: crud, jwt, api, database
+- Summary: Essential Concepts for JavaScript Developers in Back End Development If you already know...
+
+## Getting Started with React.js: A Beginner's Guide
+
+- Canonical URL: https://imzihad21.github.io/articles/a/reactjs-important-topics-43nd/
+- Source URL: https://dev.to/imzihad21/reactjs-important-topics-43nd
+- Markdown: https://imzihad21.github.io/articles/m/reactjs-important-topics-43nd.md
+- Published: 2021-12-22T17:43:19.000Z
+- Modified: 2021-12-22T17:43:19.000Z
+- Reading time: 3 minutes
+- Tags: javascript, webdev, beginners, react
+- Summary: Getting Started with React.js: A Beginner's Guide React.js is a popular JavaScript library...
